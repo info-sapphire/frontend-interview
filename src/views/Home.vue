@@ -105,12 +105,12 @@ export default {
 }
 
 .el-collapse-item__header {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 700;
 }
 
 .el-collapse-item__content > div {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .el-tab-pane__actions {
