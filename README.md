@@ -1,24 +1,23 @@
-# javascript-interview
+# Frontend Interview
 
-## Project setup
-```
-npm install
-```
+> Сборник вопросов для собеседования на позицию frontend разработчик
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Разработка
 
-### Compiles and minifies for production
-```
-npm run build
+```bash
+# Установка зависимостей
+yarn install
+
+# Запуск dev версии
+yarn serve
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Производство
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```bash
+# Построение сборки
+yarn build
+
+# Деплой в github pages
+yarn deploy
+```
