@@ -100,6 +100,23 @@ export default {
 </script>
 
 <style lang="scss">
+code {
+  background-color: rgba(242, 242, 242, 1);
+  display: inline-block;
+  padding: 2px 4px;
+}
+
+blockquote {
+  font-style: italic;
+  padding-left: 20px;
+  margin-left: 15px;
+  box-shadow: inset 3px 0 0 0 rgba(41, 41, 41, 1);
+}
+
+h4 {
+  margin: 5px 0;
+}
+
 .el-tabs__item {
   font-size: 16px;
 }
